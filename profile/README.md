@@ -4,4 +4,4 @@
 
 ## 🚀 Quick start
 
-[Discover Corby here!](https://github.com/JoseHervas/corby)
+[Discover Corby here!](https://josehervas.github.io/corby/)
